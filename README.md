@@ -15,5 +15,6 @@ Interesting resources I stumble upon, and want to share or save.
 - [Looking for the right tools, and libraries?](https://awesome.re/) - It's name speaks for itself.
 - [So much knowledge](https://github.com/vhf/free-programming-books) - Incredible list of free learning resources.
 - [SuperCheap](https://virmach.com/) - great as a testing platform perhaps? 
+- [Who doesn't like camp?](freecodecamp.com) - from the ground up learning, and practice of web development
 
 
