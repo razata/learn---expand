@@ -16,5 +16,8 @@ Interesting resources I stumble upon, and want to share or save.
 - [So much knowledge](https://github.com/vhf/free-programming-books) - Incredible list of free learning resources.
 - [SuperCheap](https://virmach.com/) - great as a testing platform perhaps? 
 - [Who doesn't like camp?](freecodecamp.com) - from the ground up learning, and practice of web development
-
+- [Save 12hours of your life](https://mailinabox.email/) - Life is short, email servers are frustrating. This... this is not.
+- [CSS. Bah. Bootstrap. Bah](http://materializecss.com/) - Check  out this little gem, small simple and effective!
+- [Well.. I might be a fan](https://emberjs.com) - Ah, the start to a wonderful relationship.
+- [Resource Lists are godly (for ember)](https://emberobserver.com)- Nuff' said.
 
